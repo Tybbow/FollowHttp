@@ -1,0 +1,5 @@
+/Users/tybbow/Documents/Projects/Csharp/FollowHttp/FollowHttp/bin/Debug/FollowHttp.exe
+/Users/tybbow/Documents/Projects/Csharp/FollowHttp/FollowHttp/bin/Debug/FollowHttp.pdb
+/Users/tybbow/Documents/Projects/Csharp/FollowHttp/FollowHttp/obj/x86/Debug/FollowHttp.csproj.CoreCompileInputs.cache
+/Users/tybbow/Documents/Projects/Csharp/FollowHttp/FollowHttp/obj/x86/Debug/FollowHttp.exe
+/Users/tybbow/Documents/Projects/Csharp/FollowHttp/FollowHttp/obj/x86/Debug/FollowHttp.pdb

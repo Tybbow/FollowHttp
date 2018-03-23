@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5FD3EFB6-8C9F-496F-98BF-5E19CFFC9457}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FollowHttp/HttpWeb.cs">
+    <Files>
+      <File FileName="FollowHttp/Program.cs" Line="12" Column="13" />
+      <File FileName="FollowHttp/HttpWeb.cs" Line="7" Column="10" />
+      <File FileName="FollowHttp/HttpRaw.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FollowHttp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
