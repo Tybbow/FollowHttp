@@ -11,10 +11,10 @@ namespace FollowHttp
             Console.WriteLine("Follow Http With WebRequest");
 
             HttpWeb test = new HttpWeb();
+			// On envoie le lien, le login et le mot de passe.
             test.Login("http://www.redlist-db.be/index.php", "tybbow@gmail.com", "134679852");
 
-            Console.WriteLine("Cookie OK");
-
+			// une fois que la connection est bonne, on peut continuer sur le site.
             string result = test.RequestPage("http://www.redlist-db.be/index.php?page=panelmembre&type=compte");
             Console.WriteLine(result);
         }
